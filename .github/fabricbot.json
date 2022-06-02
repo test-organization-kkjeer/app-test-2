@@ -1834,7 +1834,7 @@
         {
           "name": "assignToIcmUserGroup",
           "parameters": {
-            "groupId": "60d2517b9598f610681fd097",
+            "groupId": "6297f6818a3c5a1db4520498",
             "assignmentTarget": "Primary"
           }
         }
@@ -1868,7 +1868,7 @@
         {
           "name": "assignToGitHubUserGroup",
           "parameters": {
-            "groupId": "60d2517b9598f610681fd098"
+            "groupId": "6297f6408a3c5a1db4520495"
           }
         }
       ]
@@ -1901,13 +1901,13 @@
         {
           "name": "assignToGitHubUserGroup",
           "parameters": {
-            "groupId": "60d2517b9598f610681fd098"
+            "groupId": "6297f6408a3c5a1db4520495"
           }
         },
         {
           "name": "assignToGitHubUserGroup",
           "parameters": {
-            "groupId": "60d2517b9598f610681fd098"
+            "groupId": "6297f6408a3c5a1db4520495"
           }
         }
       ]
@@ -2859,7 +2859,7 @@
         {
           "name": "assignToGitHubUserGroup",
           "parameters": {
-            "groupId": "60d2517b9598f610681fd098"
+            "groupId": "6297f6408a3c5a1db4520495"
           }
         }
       ]
